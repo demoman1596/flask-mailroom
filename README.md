@@ -1,6 +1,6 @@
 # Flask Mailroom Application
 
-Running at [http://secret-journey-14604.herokuapp.com/donations/](http://secret-journey-14604.herokuapp.com/donations/.
+Running at http://secret-journey-14604.herokuapp.com/donations/.
 
 ## Your Task
 
